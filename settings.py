@@ -8,4 +8,4 @@ update_rate = 15
 # 1.5 or less will cause ratelimit errors
 
 pace_unit_per_hour = False
-# pace is displayed per hour instead of per minute if set to True
+# pace is displayed as units per hour instead of per minute if set to True
